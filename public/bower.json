@@ -1,0 +1,28 @@
+{
+  "name": "table9",
+  "homepage": "https://github.com/nicholasbarger/table9",
+  "authors": [
+    "Table9"
+  ],
+  "description": "AWS Hackathon for Conservation International",
+  "main": "index.html",
+  "keywords": [
+    "conservation",
+    "international",
+    "aws",
+    "hackathon"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^1.0.2",
+    "chart.js": "^2.4.0"
+  }
+}

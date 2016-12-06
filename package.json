@@ -1,0 +1,34 @@
+{
+  "name": "table9",
+  "version": "1.0.0",
+  "description": "AWS Hackathon for Conservation International",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nbarger@github.com/nicholasbarger/table9.git"
+  },
+  "keywords": [
+    "conservation",
+    "international",
+    "aws",
+    "hackathon"
+  ],
+  "author": "Table9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasbarger/table9/issues"
+  },
+  "homepage": "https://github.com/nicholasbarger/table9#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bower": "^1.8.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "hogan-express": "^0.5.2",
+    "path": "^0.12.7"
+  }
+}
